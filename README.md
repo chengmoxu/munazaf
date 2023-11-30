@@ -13,4 +13,7 @@ This tool uses Python to handle the conversion of Hosts Syntax to Quantumult X r
 Using https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js  
 
 3. Advertising rules  
-Using https://github.com/FutaGuard/LowTechFilter  
+Using https://github.com/FutaGuard/LowTechFilter
+
+4. Quantumult X Config  
+Based on https://github.com/Orz-3/QuantumultX/blob/master/Orz-3.conf
