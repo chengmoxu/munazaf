@@ -182,5 +182,4 @@ DOMAIN-SUFFIX,kolsh.cn,REJECT
 DOMAIN-SUFFIX,2cnjuh34jbman.com,REJECT
 DOMAIN-SUFFIX,itadapi.ithome.com.tw,REJECT
 DOMAIN-SUFFIX,zjgfq.com,REJECT
-IP-CIDR,207.148.44.179/32,REJECT
-HOST-REGEX,^(mon|tue|wed|thu|fri|sat|sun)\d{1,2}\.\w{2}\d{1,6}\w{4}\.com$,REJECT
+DOMAIN-SUFFIX,207.148.44.179/32,REJECT
