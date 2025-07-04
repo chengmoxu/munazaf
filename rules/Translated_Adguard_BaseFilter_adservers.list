@@ -84,7 +84,7 @@ DOMAIN-SUFFIX,tds.favbet.partners,REJECT
 DOMAIN-SUFFIX,pbl3citto.com,REJECT
 DOMAIN-SUFFIX,agenteimmobiliare.info,REJECT
 DOMAIN-SUFFIX,btloader.com,REJECT
-DOMAIN-SUFFIX,jaya9.app/?af=$document,REJECT
+DOMAIN-SUFFIX,jaya9.app,REJECT
 DOMAIN-SUFFIX,pnwrs5xz.click,REJECT
 DOMAIN-SUFFIX,adtarget.biz,REJECT
 DOMAIN-SUFFIX,kdnvieos.my,REJECT
